@@ -62,9 +62,9 @@ pip install pymongo pillow
 4. **Example Query**
    To query and save a specific image, modify this line in the script:
    ```python
-   query = {"metadata.original_name": "example.jpg"}
+   query = {"metadata.original_name": "Star_Wars_Logo.png"}
    ```
-   Replace `"example.jpg"` with the file name of the image you want to retrieve.
+   Replace `"Star_Wars_Logo.png"` with the file name of the image you want to retrieve.
 
 ---
 
